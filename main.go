@@ -12,4 +12,10 @@ func main() {
 
 	// LESSON 4 - Decision Structures
 	//lib.DecisionStructures()
+
+	// LESSON 5 - Loops
+	//lib.Loops()
+
+	// LESSON 6 - Interfaces
+	//lib.Interfaces()
 }

@@ -20,5 +20,7 @@ func DecisionStructures() {
 		fmt.Println("Animal is cat")
 	case "dog":
 		fmt.Println("Animal is dog")
+	default:
+		fmt.Print("Animal is Jesus")
 	}
 }
