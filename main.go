@@ -1,5 +1,7 @@
 package main
 
+import "learning-go/lib"
+
 func main() {
 	// LESSON 1 - Basics
 	//lib.Basics()
@@ -23,5 +25,5 @@ func main() {
 	//lib.Channels()
 
 	// LESSON 8 - Processing Json
-	//lib.ProcessingJson()
+	lib.ProcessingJson()
 }
